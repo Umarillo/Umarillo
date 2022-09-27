@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umarillo
 - 👀 I’m interested in ... I like write code not usaly code a effective and beautiful
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... I'm in my 3rd year now Faculy of Software Engenering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Telegram:@umarilloxon
 
